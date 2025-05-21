@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(118, 184, 201);
+}
+
+.main-container{
+    display: flex;
+}
+
+.main-container div{
+    flex: 1;
+    background-color: rgb(243, 116, 116);
+}
+
+.vibration-container button{
+    display: block;
+    margin: 10px;
+    padding: 10px;
+}
+
+.valve-container button{
+    display: block;
+    margin: 10px;
+    padding: 10px;
+}
